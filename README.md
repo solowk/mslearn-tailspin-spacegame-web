@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/solowk-study/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=code-workflow)](https://dev.azure.com/solowk-study/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=code-workflow)
+[![Build Status](https://dev.azure.com/solowk-study/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/solowk-study/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
